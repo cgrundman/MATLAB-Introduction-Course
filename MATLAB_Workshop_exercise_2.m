@@ -1,5 +1,9 @@
 %% Sheet 2 – Basic functions for vectors and matrices
 
+clc
+clear
+close all
+
 %% Exercise 1
 % a) Generate a vector with 1000 normally distributed random numbers with 
 % an average value of 5 and a standard deviation of 0.01.
